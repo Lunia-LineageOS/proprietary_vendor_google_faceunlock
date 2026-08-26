@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Krefjast athygli á skjáinn</string>
+    <string name="security_settings_face_settings_gaze_details">Þú þarft að horfa á símann til að taka hann úr lás. Fjarlægðu sólgleraugu svo að þetta virki sem best.</string>
+</resources>

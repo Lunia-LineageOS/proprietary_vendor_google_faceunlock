@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">ต้องมีการใช้งานหน้าจอ</string>
+    <string name="security_settings_face_settings_gaze_details">คุณต้องมองโทรศัพท์เพื่อปลดล็อก ถอดแว่นกันแดดออกเพื่อผลลัพธ์ที่ดีที่สุด</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">স্ক্রিনের দিকে মনোযোগ দিন</string>
+    <string name="security_settings_face_settings_gaze_details">ফোন আনলক করতে আপনাকে ফোনের দিকে তাকাতে হবে। এটি সঠিকভাবে করতে সানগ্লাস খুলে রাখুন।</string>
+</resources>

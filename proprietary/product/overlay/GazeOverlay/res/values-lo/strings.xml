@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">ຕ້ອງມີການນຳໃຊ້ໜ້າຈໍ</string>
+    <string name="security_settings_face_settings_gaze_details">ທ່ານຕ້ອງເບິ່ງໂທລະສັບເພື່ອປົດລັອກ. ຖອດແວ່ນກັນແດດອອກເພື່ອຜົນໄດ້ຮັບທີ່ດີທີ່ສຸດ.</string>
+</resources>

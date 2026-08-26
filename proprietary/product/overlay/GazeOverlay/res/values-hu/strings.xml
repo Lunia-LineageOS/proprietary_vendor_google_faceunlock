@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Figyelmet igényel a képernyőn</string>
+    <string name="security_settings_face_settings_gaze_details">A zárolt telefon feloldásához a telefonra kell néznie. Ha napszemüveget visel, vegye le.</string>
+</resources>

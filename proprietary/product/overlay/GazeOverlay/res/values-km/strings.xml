@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">តម្រូវឱ្យយកចិត្តទុកដាក់លើអេក្រង់</string>
+    <string name="security_settings_face_settings_gaze_details">ដើម្បីដោះសោទូរសព្ទ អ្នកត្រូវតែមើលទូរសព្ទរបស់អ្នក។ ដើម្បីទទួលបានលទ្ធផលល្អបំផុត សូមដោះវ៉ែនតាការពារពន្លឺថ្ងៃចេញ។</string>
+</resources>

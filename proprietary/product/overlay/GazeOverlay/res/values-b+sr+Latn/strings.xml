@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Zahtevaj da se gleda ekran</string>
+    <string name="security_settings_face_settings_gaze_details">Da biste otključali telefon, gledajte u njega. Za najbolje rezultate, skinite naočare za sunce.</string>
+</resources>

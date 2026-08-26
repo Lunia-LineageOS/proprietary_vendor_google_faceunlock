@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">स्क्रीन पर ध्यान देने की ज़रूरत है</string>
+    <string name="security_settings_face_settings_gaze_details">फ़ोन अनलॉक करने के लिए, आपको फ़ोन की तरफ़ देखना होगा. बेहतर नतीजों के लिए, फ़ोन अनलॉक करते समय धूप का चश्मा निकाल दें.</string>
+</resources>

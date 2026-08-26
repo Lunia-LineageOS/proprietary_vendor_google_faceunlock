@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">تتطلب هذه الميزة الانتباه إلى الشاشة</string>
+    <string name="security_settings_face_settings_gaze_details">لفتح قفل الهاتف، يجب النظر إلى شاشته وخلع النظارة الشمسية لنتيجة أفضل.</string>
+</resources>

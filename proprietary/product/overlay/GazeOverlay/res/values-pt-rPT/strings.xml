@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Exigir atenção no ecrã</string>
+    <string name="security_settings_face_settings_gaze_details">Tem de olhar para o telemóvel para o desbloquear. Tire os óculos de sol.</string>
+</resources>

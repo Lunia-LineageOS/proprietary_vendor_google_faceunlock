@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Ekrana bakmayı gerektir</string>
+    <string name="security_settings_face_settings_gaze_details">Kilidini açmak için telefonunuza bakıyor olmanız gerekir. En iyi sonuçlar için güneş gözlüğünü çıkarın.</string>
+</resources>

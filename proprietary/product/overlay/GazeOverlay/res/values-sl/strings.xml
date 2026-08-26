@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Zahtevaj pogled na zaslon</string>
+    <string name="security_settings_face_settings_gaze_details">Če želite odkleniti telefon, morate gledati vanj. Za najboljše rezultate snemite sončna očala.</string>
+</resources>

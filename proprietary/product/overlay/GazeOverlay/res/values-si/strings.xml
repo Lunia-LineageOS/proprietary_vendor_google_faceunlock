@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">තිරය ​​මත අවධානය අවශ්‍යයි</string>
+    <string name="security_settings_face_settings_gaze_details">දුරකථනය අගුළු ඇරීමට, ඔබ ඔබේ දුරකථනය දෙස බලා සිටිය යුතුය. හොඳම ප්‍රතිඵල සඳහා, අවු කණ්ණාඩි ගලවන්න.</string>
+</resources>

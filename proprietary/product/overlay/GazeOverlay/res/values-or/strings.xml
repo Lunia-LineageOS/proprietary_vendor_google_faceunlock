@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">ସ୍କ୍ରିନକୁ ଦେଖିବା ଆବଶ୍ୟକ କରେ</string>
+    <string name="security_settings_face_settings_gaze_details">ଫୋନ ଅନଲକ କରିବାକୁ ଆପଣଙ୍କ ଫୋନକୁ ଆପଣ ଦେଖୁଥିବା ଆବଶ୍ୟକ। ଭଲ ଫଳାଫଳ ପାଇଁ ସନଗ୍ଲାସକୁ କାଢ଼ି ଦିଅନ୍ତୁ।</string>
+</resources>

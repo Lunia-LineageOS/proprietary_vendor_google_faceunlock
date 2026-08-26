@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">স্ক্ৰীনত মনোযোগৰ প্ৰয়োজন</string>
+    <string name="security_settings_face_settings_gaze_details">ফ’ন আনলক কৰিবলৈ, আপুনি ফ’নত চাই আছে। শ্ৰেষ্ঠ ফলাফল পাবলৈ, ছানগ্লাছ খোলক।</string>
+</resources>

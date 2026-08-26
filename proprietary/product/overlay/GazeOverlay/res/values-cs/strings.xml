@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Vyžadovat sledování obrazovky</string>
+    <string name="security_settings_face_settings_gaze_details">Pokud chcete telefon odemknout, musíte se na něj dívat. Doporučujeme sundat si sluneční brýle.</string>
+</resources>

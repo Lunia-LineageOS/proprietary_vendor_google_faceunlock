@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">በማያ ገጽ ትኩረት ያስፈልገዋል</string>
+    <string name="security_settings_face_settings_gaze_details">ስልኩን ለመክፈት ስልኩን እየተመለከቱ መሆን አለብዎት። ለምርጥ ውጤቶች መነጽሮችን ያውልቁ።</string>
+</resources>

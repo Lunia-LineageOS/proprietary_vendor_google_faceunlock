@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Solicitar atención a la pantalla</string>
+    <string name="security_settings_face_settings_gaze_details">Para desbloquear el teléfono, debes mirarlo. Para obtener resultados óptimos, quítate los lentes de sol.</string>
+</resources>

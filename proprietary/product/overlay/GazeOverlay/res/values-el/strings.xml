@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Απαιτείται προσοχή στην οθόνη</string>
+    <string name="security_settings_face_settings_gaze_details">Κοιτάξτε το τηλέφωνο για να το ξεκλειδώσετε. Βγάλτε τα γυαλιά ηλίου.</string>
+</resources>

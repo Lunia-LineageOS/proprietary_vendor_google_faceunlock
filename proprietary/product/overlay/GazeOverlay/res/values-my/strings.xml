@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">စခရင်ကို အာရုံစိုက်ရန် လိုသည်</string>
+    <string name="security_settings_face_settings_gaze_details">ဖုန်းဖွင့်ရန် ဖုန်းကိုကြည့်နေရမည်။ ရလဒ်ကောင်းရန် နေကာမျက်မှန်ချွတ်ပါ။</string>
+</resources>

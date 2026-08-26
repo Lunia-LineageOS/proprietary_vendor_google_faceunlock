@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">需要注视屏幕</string>
+    <string name="security_settings_face_settings_gaze_details">如需解锁手机，您必须注视手机。为达到最佳效果，请摘下太阳镜。</string>
+</resources>

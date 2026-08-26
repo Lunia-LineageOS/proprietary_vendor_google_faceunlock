@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Benodig aandag op skerm</string>
+    <string name="security_settings_face_settings_gaze_details">Jy moet vir die foon kyk om die foon te ontsluit. Haal jou sonbril af vir die beste resultate.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Eskatu pantailari begiratzeko</string>
+    <string name="security_settings_face_settings_gaze_details">Telefonoa desblokeatzeko, hari begiratu behar diozu. Emaitza hobeak lortzeko, kendu eguzkitako betaurrekoak.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">ಸ್ಕ್ರೀನ್ ಮೇಲೆ ಗಮನ ಹರಿಸಬೇಕು</string>
+    <string name="security_settings_face_settings_gaze_details">ಅನ್‌ಲಾಕ್ ಮಾಡಲು, ಫೋನ್ ನೋಡುತ್ತಿರಬೇಕು. ಉತ್ತಮ ಫಲಿತಾಂಶಕ್ಕಾಗಿ, ಸನ್‌ಗ್ಲಾಸ್‌ ತೆಗೆಯಿರಿ.</string>
+</resources>

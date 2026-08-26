@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">ਸਕ੍ਰੀਨ \'ਤੇ ਧਿਆਨ ਦੇਣ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="security_settings_face_settings_gaze_details">ਫ਼ੋਨ ਅਣਲਾਕ ਕਰਨ ਲਈ, ਫ਼ੋਨ ਦੇਖੋ। ਵਧੀਆ ਨਤੀਜਿਆਂ ਲਈ, ਧੁੱਪ ਦੀਆਂ ਐਨਕਾਂ ਉਤਾਰੋ।</string>
+</resources>

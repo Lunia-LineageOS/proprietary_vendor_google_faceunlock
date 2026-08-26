@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">화면 시선 감지 필요</string>
+    <string name="security_settings_face_settings_gaze_details">휴대전화를 잠금 해제하려면 휴대전화를 바라봐야 합니다. 최상의 결과를 얻으려면 선글라스를 벗으세요.</string>
+</resources>

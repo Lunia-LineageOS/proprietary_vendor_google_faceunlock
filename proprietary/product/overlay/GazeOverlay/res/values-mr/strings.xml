@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">स्क्रीनवर लक्ष देणे आवश्यक आहे</string>
+    <string name="security_settings_face_settings_gaze_details">अनलॉक करण्यासाठी, फोनकडे पहा. सर्वोत्तम परिणामांसाठी, सनग्लास काढा.</string>
+</resources>

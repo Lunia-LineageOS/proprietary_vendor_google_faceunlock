@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_face_settings_gaze">Require attention on screen</string>
+    <string name="security_settings_face_settings_gaze_details">To unlock the phone, you must be looking at your phone. For best results, take off sunglasses.</string>
+    <string name="security_settings_face_settings_require_attention">@string/security_settings_face_settings_gaze</string>
+    <string name="security_settings_face_settings_require_attention_details">@string/security_settings_face_settings_gaze_details</string>
+</resources>
